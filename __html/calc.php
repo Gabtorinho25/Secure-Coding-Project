@@ -1,4 +1,4 @@
-<?php include 'login.php'; ?>
+<?php ?>
 <html>
 <head></head>
 <script src="/particles.min.js"></script>
